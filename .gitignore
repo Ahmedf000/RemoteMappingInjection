@@ -1,0 +1,5 @@
+.vs/
+*.suo
+*.user
+x64/Debug/*.tlog/
+x64/Debug/*.idb

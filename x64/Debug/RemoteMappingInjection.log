@@ -1,0 +1,3 @@
+﻿  RemoteMappingInjection.c
+C:\Users\MalDev\source\repos\RemoteMappingInjection\RemoteMappingInjection.c(72,1): warning C4047: 'initializing': 'BOOL' differs in levels of indirection from 'void *'
+  RemoteMappingInjection.vcxproj -> C:\Users\MalDev\source\repos\RemoteMappingInjection\x64\Debug\RemoteMappingInjection.exe
